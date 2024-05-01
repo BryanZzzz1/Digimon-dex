@@ -1,0 +1,9 @@
+h1{
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+}
+.filtro{
+    display: none;
+}
+
